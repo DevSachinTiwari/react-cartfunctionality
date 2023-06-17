@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    background: #fff;
+    height: 112px;
+    border-bottom: 2px solid #e5e8ed;
+    align-items: center;
+    padding: 30px;
+    justify-content: space-between;
+    @media (max-width: 767px){
+        display: none;
+    }
+}
+.searchbar{
+    background-color: red;
+}
+.other{
+    display: flex;
+}
