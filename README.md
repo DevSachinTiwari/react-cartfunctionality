@@ -16,6 +16,21 @@ This project is a simple React.js application that demonstrates a shopping cart 
    ```bash
    npm install
 
+## Features
+1. Add products to the cart.
+2. Remove products from the cart.
+3. Adjust the quantity of items in the cart.
+4. Calculate and display the total price of the items in the cart with discount
+5. Print bill feature
+
+## Acknowledgments
+# React
+# create-react-app
+# react-router-dom
+
+# Contact
+For any questions or inquiries, please contact me at sachintiwari809@gmail.com.
+
 # Usage
 # To start the development server and run the application, use the following command:
 ```bash
